@@ -1,3 +1,4 @@
-#ignore folder named node-modules
-node-modules
+#ignore folder named 'node-modules'
+node_modules
+#ignore file named 'package-lock.json'
 package-lock.json
