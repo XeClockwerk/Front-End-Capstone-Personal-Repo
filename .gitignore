@@ -1,2 +1,3 @@
+#ignore folder named node-modules
 node-modules
 package-lock.json
